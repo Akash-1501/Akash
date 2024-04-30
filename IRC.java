@@ -110,6 +110,8 @@ public class IRC {
         driver.findElement(By.xpath("//p-radiobutton[@id='yes']")).click();
 ////input[@formcontrolname='termCondition']
         driver.findElement(By.xpath("//input[@formcontrolname='termCondition']")).click();
+        system.out
+
 
 
 
